@@ -1,4 +1,4 @@
-# flutter_curse
+# flutter_curse - Expense App
 
 A new Flutter project.
 
